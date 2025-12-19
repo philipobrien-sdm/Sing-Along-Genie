@@ -2,10 +2,8 @@
 
 **Sing-Along Genie** is an AI-powered songwriting assistant designed to turn your stories, memories, or silly ideas into catchy, rhythmic hits. Whether you're a parent looking for a custom nursery rhyme, a troop leader needing a campfire anthem, or a shower singer dreaming of a power ballad, the Genie has you covered.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<img width="500" height="300" alt="Screenshot 2025-12-19 090305" src="https://github.com/user-attachments/assets/f22ea2e7-d751-4c19-9746-926f2d0cc3fb" />
+
 
 ## ✨ Features
 
